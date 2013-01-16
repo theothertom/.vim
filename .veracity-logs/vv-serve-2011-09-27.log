@@ -1,0 +1,16 @@
+﻿SourceGear Veracity
+Version 1.0.0.10517 [64-bit]
+server/files = "/usr/share/veracity/server_files"
+server/cache = <default>
+server/session_storage = <default>
+server/readonly = <default>
+
+[2011/09/27 22:41:24.961 +0100] [PID:   2351, Thread:   2353] Error: onDispatch callback threw exception during request to /local/status.json:
+Error: Error 74 (sglib): File lock failed: Could not lock '/home/tom/build/linux_puppet/.sgdrawer/wd.json'.
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_file.c:181
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_file.c:340
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_vfile.c:75
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_pendingtree.c:1955
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_pendingtree.c:1535
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_jsglue.c:4934
+

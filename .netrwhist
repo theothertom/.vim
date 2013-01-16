@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/tom/ownCloud/build/ITV/dev_environment/linux_puppet/puppet/itv.com/modules/itv_puppetmaster_passenger/manifests'
+let g:netrw_dirhist_2='/home/tom/.vim/ruby/command-t/vim'
+let g:netrw_dirhist_3='/home/tom/ownCloud/build/ITV/dev_environment/linux_puppet/puppet/itv.com/modules/itv_sshd'
+let g:netrw_dirhist_4='/home/tom/ownCloud/build/ITV/dev_environment/linux_puppet/puppet/itv.com/modules/itv_sshd/manifests'
+let g:netrw_dirhist_5='/etc/NetworkManager/dnsmasq.d'
+let g:netrw_dirhist_6='/home/tom/ownCloud/build/workshare/dev_environment/puppet-with-cukes/puppet/workshare.com/modules/ws_unicorn/manifests'
+let g:netrw_dirhist_7='/home/tom/ownCloud/build/workshare/dev_environment/puppet-with-cukes/puppet/workshare.com/modules/ws_rails/templates'
+let g:netrw_dirhist_8='/home/tom/ownCloud/build/workshare'
+let g:netrw_dirhist_9='/home/tom/ownCloud/build'

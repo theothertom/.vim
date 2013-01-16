@@ -1,0 +1,19 @@
+﻿SourceGear Veracity
+Version 1.0.0.10517 [64-bit]
+server/files = "/usr/share/veracity/server_files"
+server/cache = <default>
+server/session_storage = <default>
+server/readonly = <default>
+
+[2011/09/28 10:36:27.835 +0100] [PID:   5816, Thread:   5816] Error: Command 'serve' completed with exit status 1.
+
+
+[2011/09/28 10:44:46.552 +0100] [PID:   5898, Thread:   5898] Error: Command 'serve' completed with exit status 1.
+
+
+[2011/09/28 10:44:58.901 +0100] [PID:   5902, Thread:   5902] Error: Command 'serve' completed with exit status 1.
+
+
+[2011/09/28 10:45:06.384 +0100] [PID:   5908, Thread:   5908] Error: Command 'serve' completed with exit status 1.
+
+

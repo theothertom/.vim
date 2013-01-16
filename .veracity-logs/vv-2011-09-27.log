@@ -1,0 +1,38 @@
+﻿SourceGear Veracity
+Version 1.0.0.10517 [64-bit]
+
+[2011/09/27 22:24:14.696 +0100] [PID:   2195, Thread:   2195] Error: Command 'init' completed with error:
+Error 233 (sglib): A repository with that name already exists.
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_repo_misc.c:255
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_vv_verbs__init_new_repo.h:110
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_vv_verbs__init_new_repo.h:184
+	/tmp/buildd/veracity-1.0.0nightly10517/src/cmd/sg__do_cmd_init_new_repo.c:49
+	/tmp/buildd/veracity-1.0.0nightly10517/src/cmd/sg.c:7882
+	/tmp/buildd/veracity-1.0.0nightly10517/src/cmd/sg.c:9383
+	/tmp/buildd/veracity-1.0.0nightly10517/src/cmd/sg.c:9638
+
+
+
+[2011/09/27 22:24:39.211 +0100] [PID:   2199, Thread:   2199] Error: Command 'init' completed with error:
+Error 233 (sglib): A repository with that name already exists.
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_repo_misc.c:255
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_vv_verbs__init_new_repo.h:110
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_vv_verbs__init_new_repo.h:184
+	/tmp/buildd/veracity-1.0.0nightly10517/src/cmd/sg__do_cmd_init_new_repo.c:49
+	/tmp/buildd/veracity-1.0.0nightly10517/src/cmd/sg.c:7882
+	/tmp/buildd/veracity-1.0.0nightly10517/src/cmd/sg.c:9383
+	/tmp/buildd/veracity-1.0.0nightly10517/src/cmd/sg.c:9638
+
+
+
+[2011/09/27 22:40:32.277 +0100] [PID:   2363, Thread:   2363] Error: Command 'commit' completed with error:
+Error 226 (sglib): The user has not been set.  Perhaps you should use the whoami command.
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_audit.c:117
+	/tmp/buildd/veracity-1.0.0nightly10517/src/libraries/ut/sg_user.c:224
+	/tmp/buildd/veracity-1.0.0nightly10517/src/cmd/sg_cmd_util__comment.c:154
+	/tmp/buildd/veracity-1.0.0nightly10517/src/cmd/sg.c:7138
+	/tmp/buildd/veracity-1.0.0nightly10517/src/cmd/sg.c:9383
+	/tmp/buildd/veracity-1.0.0nightly10517/src/cmd/sg.c:9638
+
+
+
